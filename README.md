@@ -25,6 +25,10 @@ diskc.cpm.fs is drive C but contains files in User 0 - 15
 ```
 # Start cpmsim with diskc.cpm.fs as drive C: (0-15 User dirs)
 ./cpmsim -c diskc.cpm.fs -s
+
+;
+; To exit back to Linux, type bbye
+;
 ```
 
 ## Notes
