@@ -24,7 +24,7 @@ check:
 	@echo check for the missing
 	@$(CHECK)
 
-cpmsim: obj/cpmsim.o obj/m68kcpu.o obj/m68kops.o obj/m68kopac.o obj/m68kopdm.o obj/m68kopnz.o m68kdasm.o
+cpmsim: obj/cpmsim.o obj/m68kcpu.o obj/m68kops.o obj/m68kopac.o obj/m68kopdm.o obj/m68kopnz.o m68kdasm.o softfloat.o
 	$(CC) $(LFLAGS) obj/sim.o obj/m68kcpu.o obj/m68kops.o obj/m68kopac.o obj/m68kopdm.o obj/m68kopnz.o m68kdasm.o softfloat.o -o cpmsim
 
 softfloat.o: softfloat/softfloat.c softfloat/softfloat.h
