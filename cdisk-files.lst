@@ -1,0 +1,286 @@
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+AR68    .68K    20K    153    
+ARC     .68K    40K    309    
+AS68    .68K    54K    418    
+AS68INIT.        8K     49    
+AS68SYMB.DAT     8K     49    
+AUTOST  .SUB     2K      1    
+BBYE    .68K     2K      1    
+C068    .68K    54K    422    
+C168    .68K    50K    386    
+CC      .68K     2K      4    
+CC      .REL    62K    488    
+CONFIG  .68K    16K    125    
+COPY    .SUB     2K      3    
+CP68    .68K    26K    199    
+CPM     .SYS    22K    176    
+DDT     .68K     4K     28    
+DDT68000.68K    54K    431    
+DUMP    .68K    14K    110    
+ED      .68K    12K     94    
+EMACS   .68K    36K    275    
+EMACS   .HLP     8K     51    
+EMACS   .RC      2K      3    
+ERAQ    .68K     2K      3    
+F83     .68K     2K     10    
+F83     .BIN    30K    226    
+GREEN   .68K     2K      1    
+INIT    .REL     2K     11    
+LINK68  .68K    38K    296    
+LO68    .68K    24K    182    
+MAKE    .68K    20K    153    
+MAKE    .REL    48K    382    
+MORE    .68K    16K    113    
+NM68    .68K    16K    124    
+PIP     .68K    10K     68    
+PIP     .REL    32K    248    
+PUTBOOT .68K     2K      6    
+RELOC   .68K    18K    129    
+ROBOTS21.68K    16K    126    
+SENDC68 .68K    16K    127    
+SID     .68K     4K     28    
+SID68K  .68K    56K    442    
+SIZE68  .68K    16K    113    
+SPLIT   .68K     2K      5    
+STAT    .68K    10K     73    
+TAIL    .68K    16K    115    
+UEMACS  .68K    52K    409    
+WHEREIS .68K     2K      8    
+
+User 1:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+ASSERT  .H       2K      4    
+BASEPA  .H       2K     15    
+BDOS    .H      16K    113    
+BIOS    .H       2K      1    
+BYTESWAP.H       2K      1    
+BYTESWAP.S       2K      2    
+CTYPE   .H       2K     15    
+ENDIAN  .H       2K      5    
+ERRNO   .H       2K      9    
+GETARGS .H       2K      5    
+OPTION  .H       6K     46    
+OSIF    .H      14K     97    
+OSIFERR .H       2K      5    
+PORTAB  .H       4K     20    
+SETJMP  .H       2K     14    
+SGTTY   .H       2K      6    
+SIGNAL  .H       2K     16    
+STDINT  .H       2K      4    
+STDIO   .H       6K     44    
+
+User 2:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+BYTESWAP.O       2K      1    
+CLIB    .       94K    738    
+LIBE    .A      26K    199    
+LIBF    .A      20K    160    
+S       .O       2K     10    
+
+User 3:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+BDOSDEF .H      10K     75    
+BDOSIF  .S       6K     39    
+BDOSINC .H       4K     31    
+BDOSMAIN.C      14K    103    
+BDOSMISC.C      10K     75    
+BDOSRW  .C      12K     94    
+BIOSDEF .H       4K     22    
+CCP     .C      38K    301    
+CCPBDOS .S       2K      5    
+CCPDEF  .H       6K     35    
+CCPIF   .S       4K     18    
+CCPLOAD .S      10K     65    
+CONBDOS .C      12K     81    
+CONBDOS .C~     12K     81    
+CPMC    .DOC     2K     14    
+CPMLIB  .       42K    325    
+DSKUTIL .C      10K     66    
+EXCEPTN .S      10K     77    
+FILEIO  .C      20K    154    
+FILETYPS.S       4K     29    
+IOSYS   .C       4K     26    
+MAKEFILE.        2K     12    
+NEWCON  .C      16K    123    
+NEWCON  .DOC     6K     33    
+PGMLD   .S      20K    146    
+PKTIO   .H       2K     15    
+REAR    .SUB     2K      6    
+STACK   .S       2K      4    
+
+User 4:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+BDOSDEF .H       6K     47    
+BDOSIF  .S       4K     21    
+BDOSMAIN.C       4K     23    
+BDOSREAD.C       6K     47    
+BIOSDEF .H       2K     16    
+CPMLDR  .C       6K     35    
+DSKUTIL .C       4K     23    
+FILEIO  .C       4K     24    
+IOSYS   .C       2K     15    
+LDRIF   .S       2K     10    
+LDRLIB  .       10K     70    
+M       .SUB     2K      2    
+MAKE    .SUB     2K     13    
+PKTIO   .H       2K     15    
+STDIO   .H       4K     22    
+
+User 5:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+BBYE    .68K     2K      1    
+BYE     .S       2K      1    
+CPM     .REL    48K    371    
+CPM     .SYS    22K    176    
+CPMLDR  .REL     8K     49    
+CPMLDR  .SYS     4K     23    
+CPMLIB  .       72K    573    
+GREEN   .REL     2K      1    
+GREEN   .S       2K      2    
+LCPM    .SUB     2K      1    
+LCPM10  .SUB     2K      1    
+LDRBIOS .S       4K     27    
+LDRLIB  .       10K     70    
+MAKECPM .SUB     2K      1    
+MAKELDR .SUB     2K      2    
+PUTBOOT .68K     2K      6    
+PUTBOOT .REL     2K     11    
+PUTBOOT .S       4K     32    
+RELCPM  .SUB     2K      3    
+SIMBIOS .S       8K     62    
+
+User 6:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+BASEPA  .H       2K     15    
+BDOS    .H      16K    113    
+ERAQ    .68K     2K      3    
+ERAQ    .REL     2K      6    
+ERAQ    .S       4K     25    
+ERAQ68  .68K     2K      3    
+ERAQ68  .REL     2K      6    
+ERAQ68  .S       4K     32    
+PIP     .C     104K    828    
+PIP     .REL    32K    248    
+PORTAB  .H       4K     20    
+RELMOD  .C       4K     17    
+ROBOTS21.C      18K    135    
+SPLIT   .REL     2K      9    
+SPLIT   .S       4K     31    
+STAT    .C      64K    507    
+STAT    .REL    24K    191    
+TAIL    .C       4K     20    
+
+User 10:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+ATRIBUTE.C       2K     11    
+CHDIR   .C       2K      6    
+MAKE    .68K     2K      4    
+MAKE    .BAK    26K    193    
+MAKE    .C      24K    190    
+MAKEFILE.        2K      3    
+MAKELOAD.REL     2K      7    
+MAKELOAD.S       6K     41    
+MAKELOAD.SUB     2K      1    
+MOVMEM  .C       2K      3    
+STRSAVE .C       2K      5    
+UTIL    .C       2K     13    
+
+User 11:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+CALLSYSA.S       4K     17    
+CC      .68K     2K      4    
+CC      .C      26K    202    
+CC      .DOC     4K     27    
+CC      .REL    62K    486    
+CCLOAD  .REL     2K      7    
+CCLOAD  .S       6K     41    
+MAKEFILE.        2K      3    
+PEXEC   .C       4K     22    
+TEST    .C       2K      8    
+
+User 13:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+ANSI    .C       2K     14    
+BASIC   .C       8K     57    
+BIOS    .H       2K      1    
+BIOS    .S       2K      2    
+BUFFER  .C      10K     72    
+DISPLAY .C      18K    131    
+ED      .H       8K     62    
+EMACS   .68K    36K    275    
+EMACS   .REL    86K    684    
+FILE    .C      10K     70    
+FILEIO  .C       4K     18    
+LINE    .C      14K     99    
+MAIN    .C      20K    146    
+ME      .TXT     4K     25    
+NOTES   .TXT     2K      6    
+PORTAB  .H       4K     24    
+RANDOM  .C      10K     79    
+REGION  .C       6K     39    
+SEARCH  .C       6K     35    
+SPAWN   .C       6K     40    
+STDIO   .H       6K     44    
+TCAP    .C       2K     14    
+TERMIO  .C       6K     45    
+VT52    .C       2K     14    
+WINDOW  .C      10K     74    
+WORD    .C       8K     52    
+
+User 14:
+
+     Name    Bytes   Recs  Attr     update             create
+------------ ------ ------ ---- -----------------  -----------------
+ANSI    .C       4K     23    
+BASIC   .C      12K     95    
+BIND    .C      22K    165    
+BIOS    .H       2K      4    
+BIOS    .O       2K      2    
+BIOS    .S       2K      4    
+BUFFER  .C      18K    130    
+DISPLAY .C      32K    249    
+EBIND   .H       8K     50    
+EDEF    .H       6K     35    
+EFUNC   .H      12K     88    
+EMACS   .HLP     8K     51    
+EMACS   .KEY     6K     34    
+EPATH   .H       2K      6    
+ESTRUCT .H      12K     94    
+FILE    .C      18K    137    
+FILEIO  .C       4K     26    
+HP150   .C       8K     59    
+LINE    .C      20K    157    
+LOCK    .C       4K     31    
+MAIN    .C      22K    175    
+NOTES   .TXT     2K      2    
+RANDOM  .C      18K    143    
+REGION  .C       8K     58    
+SEARCH  .C      14K    109    
+SPAWN   .C      10K     74    
+TCAP    .C       4K     25    
+TERMIO  .C      14K    109    
+UEMACS  .68K    52K    409    
+UEMACS  .REL   126K    996    
+VT52    .C       4K     20    
+WINDOW  .C      14K    101    
+WORD    .C      14K    110    
+  233 Files occupying   2866K,   13358K Free.
