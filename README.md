@@ -39,3 +39,5 @@ m68k_init()
 m68k_set_cpu_type(M68K_CPU_TYPE_68000)
 ```
 So this version no longer fails with SIGSEGV.
+
+- cpm400.bin is CP/M 1.2
