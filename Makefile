@@ -67,10 +67,10 @@ m68kdasm.o: m68kdasm.c
 ### Not sure where these come from
 ###
 obj/m68kopac.c:
-	cp t/m68kopac.c obj/
+	cp examples/m68kopac.c obj/
 
 obj/m68kopdm.c:
-	cp t/m68kopdm.c obj/
+	cp examples/m68kopdm.c obj/
 
 obj/m68kopnz.c:
-	cp t/m68kopnz.c obj/
+	cp examples/m68kopnz.c obj/
