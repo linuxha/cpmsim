@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/libretro/supermodel/master/Src/CPU/68K/Musashi/generated/m68kops.h #m68kops.h
