@@ -41,3 +41,11 @@ m68k_set_cpu_type(M68K_CPU_TYPE_68000)
 So this version no longer fails with SIGSEGV.
 
 - cpm400.bin is CP/M 1.2
+
+## CP/M Tools
+
+```
+cpmls -Df em68k diskc.cpm.fs
+```
+
+I've include the diskdefs file with additions for cpmsim and 68K-MBC sbc CPM Disks (DSON00.DSK). Trying to access the 68K-MBC disks from inside cpmsim didn't seem to work correctly.
