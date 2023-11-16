@@ -1,5 +1,7 @@
 # cpmsim
-Originally referenced as http://home.earthlink.net/~schultdw/cpm68/simulator.html (now 404)
+Originally referenced as http://home.earthlink.net/~schultdw/cpm68/simulator.html (now 404)<br>
+but a copy is available at archive.org under the url
+https://web.archive.org/web/20200324101538/http://home.earthlink.net/~schultdw/cpm68/simulator.html
 
 This simple CP/M-68K simulator, is built around the famous Musashi MC68000 simulator core.  So it’s a little more well debugged than the SIMH CP/M-68k. Namely that COM works!
 
